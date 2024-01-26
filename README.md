@@ -9,7 +9,7 @@
 - Hackerrank : https://www.hackerrank.com/profile/dmrityunjay32
 - Codechef : https://www.codechef.com/users/adarshdwivedi9
 - HackerEarth : https://www.hackerearth.com/@Maddy09
-- Gfg: https : //auth.geeksforgeeks.org/user/dmrityu06wx
+- Gfg : https://auth.geeksforgeeks.org/user/dmrityu06wx
 - Twitter : https://twitter.com/mrityunjay2135
 - Reddit :  https://www.reddit.com/u/NefariousnessMuch149
 - Medium : https://medium.com/@mrityunjay.22scse2030758
