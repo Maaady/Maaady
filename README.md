@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on  project and your help to get a software devlopment Engineer - 1 role in any  tech company and gained my skills from there as well as to implementing problem solving.
 - 📫 So here are my coding site link where you can reach me out  happy to share ;
   
-- LinkedIn : https://www.linkedin.com/in/mrityunjay-kumar-dwivedi-4b7a85205
+-![image](https://github.com/Maaady/Maaady/assets/86121370/8e41a9c1-0e36-459c-b7b7-cd354010157b)
+ LinkedIn : https://www.linkedin.com/in/mrityunjay-kumar-dwivedi-4b7a85205
 - LeetCode : https://leetcode.com/Mrityunjay07
 - Hackerrank : https://www.hackerrank.com/profile/dmrityunjay32
 - Codechef : https://www.codechef.com/users/adarshdwivedi9
