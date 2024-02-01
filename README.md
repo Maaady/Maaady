@@ -11,7 +11,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://leetcode.com/Mrityunjay07">
-  <img height="50" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100049108696603&tbnid=TdRSbr7l1IB03M&vet=12ahUKEwivxoGI7ImEAxUYcWwGHTV8CzEQMygBegQIARB1..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FLeetCode%2F&docid=OP4aditN04DbRM&w=509&h=509&q=leetcode&ved=2ahUKEwivxoGI7ImEAxUYcWwGHTV8CzEQMygBegQIARB1"/>
+  <img height="50" src=""/>
 </a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
   <img height="50" src=""/>
@@ -28,11 +28,11 @@
   </a>
       <a>
     <a href ="https://twitter.com/mrityunjay2135">
-       <img height="50" src=""/> 
+       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/> 
   </a>
        <a>
     <a href ="https://medium.com/@mrityunjay.22scse2030758">
-       <img height="50" src=""/> 
+       <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/> 
   </a>
 </p>
 
@@ -92,10 +92,8 @@ hobbies: ["Gaming", "Cinema", "Guitar", "Sing", "Social"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="sql" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
