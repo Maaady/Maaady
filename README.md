@@ -7,21 +7,33 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/mrityunjaydwivedi">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
+<a href="https://leetcode.com/Mrityunjay07">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
+<a href="https://www.codechef.com/users/adarshdwivedi9">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://www.hackerrank.com/profile/dmrityunjay32">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.hackerearth.com/@Maddy09">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+  <a>
+    <a href ="https://auth.geeksforgeeks.org/user/dmrityu06wx">
+       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> 
+  </a>
+      <a>
+    <a href ="https://twitter.com/mrityunjay2135">
+       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> 
+  </a>
+       <a>
+    <a href ="https://medium.com/@mrityunjay.22scse2030758">
+       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> 
+  </a>
 </p>
 
 ---
@@ -29,25 +41,25 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: F Developer
+name: Mrityunjay Kumar Dwivedi
+located_in: Noida, India
 education:
   [
     "Self-Taught Developer ",
     "Master's in Computer Engineering",
     "Bachelor's in  Computer Science",
   ]
-company: Soulber
 
 fields_of_interests:
   [
-    "Web Development",
+    "SDE-1",
     "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Data Analytics",
+    "Full Stack Devloper",
+    "Frontend Devloper",
+    "Backend Devloper",
+    "Sdet-1",
+    "Quality Analysis",
   ]
 technical_background:
   [
@@ -57,7 +69,7 @@ technical_background:
     "Intern - Java Developer",
   ]
   
-currently_learning: [", DSA, and React Native"]
+currently_learning: ["Problem Solving, DSA, and Cs Fundamentals"]
 2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Guitar", "Sing", "Social"]
 ```
