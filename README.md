@@ -14,7 +14,7 @@
   <img height="50" src=""/>
 </a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
-  <img height="50" src="CodeChef	![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)"/>
+  <img height="50" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/profile/dmrityunjay32">
   <img height="50" src=""/>
