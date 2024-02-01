@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">
+  Mrityunjay Kumar Dwivedi
   Let's Connect and have a Chat!💬
 </h1>
 
