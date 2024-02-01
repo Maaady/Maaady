@@ -14,7 +14,7 @@
   <img height="50" src=""/>
 </a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
-  <img height="50" src=""/>
+  <img height="50" src="CodeChef	![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)"/>
 </a>
 <a href="https://www.hackerrank.com/profile/dmrityunjay32">
   <img height="50" src=""/>
@@ -24,7 +24,7 @@
 </a>
   <a>
     <a href ="https://auth.geeksforgeeks.org/user/dmrityu06wx">
-       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/> 
+       <img height="50" src=""/> 
   </a>
       <a>
     <a href ="https://twitter.com/mrityunjay2135">
