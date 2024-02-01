@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mrityunjay Kumar Dwivedi
+- 👋 Hello dear coders  Myself Mrityunjay Kumar Dwivedi and I have a highly skilled professional seeking opportunities in software development. With a master's degree in computer applications, i possesses exceptional problem-solving and ownership skills. Motivated to enhance my abilities,  also determined to secure a position in a reputable company. I am committed to making a significant contribution and advancing in my career .
 - 👀 I’m interested in Software Devloper Engennering - 1 role  and currently looking for it.
 - 🌱 I’m currently pursuing My Master's in MCA  from Galgotias University Greater Noida.
 - 💞️ I’m looking to collaborate on  project and your help to get a software devlopment Engineer - 1 role in any  tech company and gained my skills from there as well as to implementing problem solving.
