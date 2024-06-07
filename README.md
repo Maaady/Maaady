@@ -40,8 +40,10 @@
 name: Mrityunjay Kumar Dwivedi
 located_in: Noida, India
 experince:
-position: Software Developer
-company : AHO Security Labs
+   [
+      position: Software Developer
+      company : AHO Security Labs
+   ]
 education:
   [
     "Self-Taught Developer ",
