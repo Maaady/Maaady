@@ -5,19 +5,12 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/mrityunjaydwivedi">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://leetcode.com/Mrityunjay07">
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-</a>
-  <a href="https://atcoder.jp/users/MrityunjayD">
- https://www.google.com/imgres?q=atcoder&imgurl=https%3A%2F%2Fbinary-fish.vercel.app%2FAtcoder-guide.webp&imgrefurl=https%3A%2F%2Fbinary-fish.vercel.app%2Fblog%2Fatcodercontest346%2F&docid=oYUHJBCpZU3SRM&tbnid=riGkScN6HQ3VHM&vet=12ahUKEwi5qNm347qIAxVMVmwGHavuL24QM3oECGsQAA..i&w=960&h=480&hcb=2&ved=2ahUKEwi5qNm347qIAxVMVmwGHavuL24QM3oECGsQAA 
-</a>
-<a href="https://codeforces.com/profile/MrityunjayD">
-  <img height="50" style="height: 50px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/31161/images/codeforces-sponsored-by-ton.png"/></a>
 </a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
   <img height="50" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
