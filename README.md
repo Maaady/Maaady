@@ -14,8 +14,10 @@
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
   <a href="https://atcoder.jp/users/MrityunjayD">
+    
 </a>
 <a href="https://codeforces.com/profile/MrityunjayD">
+  <img height="50" style="height: 50px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/31161/images/codeforces-sponsored-by-ton.png"/></a>
 </a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
   <img height="50" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
