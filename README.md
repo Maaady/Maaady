@@ -14,7 +14,7 @@
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
   <a href="https://atcoder.jp/users/MrityunjayD">
-    
+ https://www.google.com/imgres?q=atcoder&imgurl=https%3A%2F%2Fbinary-fish.vercel.app%2FAtcoder-guide.webp&imgrefurl=https%3A%2F%2Fbinary-fish.vercel.app%2Fblog%2Fatcodercontest346%2F&docid=oYUHJBCpZU3SRM&tbnid=riGkScN6HQ3VHM&vet=12ahUKEwi5qNm347qIAxVMVmwGHavuL24QM3oECGsQAA..i&w=960&h=480&hcb=2&ved=2ahUKEwi5qNm347qIAxVMVmwGHavuL24QM3oECGsQAA 
 </a>
 <a href="https://codeforces.com/profile/MrityunjayD">
   <img height="50" style="height: 50px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/31161/images/codeforces-sponsored-by-ton.png"/></a>
