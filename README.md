@@ -57,10 +57,10 @@ experince:
       company : Aicte NEAT,
 
       position: Ex-sde Intern
-      company : Goldmaan Sachs
+      company : Goldmaan Sachs,
 
       position: Ex-sde Intern
-      company : Codeclause
+      company : Codeclause.
 
    ]
 
