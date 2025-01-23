@@ -38,16 +38,32 @@
 ```yaml
 name: Mrityunjay Kumar Dwivedi
 located_in: India
+
 experince:
    [
-      position: Software Developer
-      company : AHO Security Labs
+      position: Software Developement Engineer
+      company : Laland Marketing Pvt ltd,
+
+      position: Ex-Sde
+      company : Aho Security Labs,
+
+      position: Ex-Ai-ml Intern
+      company : Aicte NEAT,
+
+      position: Ex-sde Intern
+      company : Goldmaan Sachs
+
+      position: Ex-sde Intern
+      company : Codeclause
+
    ]
+
 education:
   [
-    "Self-Taught Developer ",
-    "Master's in Computer Engineering",
-    "Bachelor's in  Computer Science",
+    University: Galgotias University
+    "Master's in Computer Engineering (MCA)",
+    University: Delhi University
+     "Bachelor's in  Computer Science (BSc)" .
   ]
 
 fields_of_interests:
@@ -58,19 +74,12 @@ fields_of_interests:
     "Full Stack Devloper",
     "Frontend Devloper",
     "Backend Devloper",
-    "Sdet-1",
-    "Quality Analysis",
+    "Sdet-1".
   ]
-technical_background:
-  [
-    " Software Developer Engineering",
-    "Intern - Data Science ",
-    "Intern - Fullstack Devloper",
-    "Intern - Java Developer",
-  ]
+
   
-currently_learning: ["Problem Solving, DSA, and Cs Fundamentals"]
-2024 Goals: [" i try to Devlop 10+ Projects and learn new Technologies."]
+currently_learning: ["Problem Solving, DSA, and Ai "]
+2025 Goals: [" I try to Devlop 10+ Projects and learn new Technologies."]
 hobbies: ["Gaming", "Cinema", "Guitar", "Sing", "Social"]
 ```
   
