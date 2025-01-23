@@ -12,6 +12,12 @@
 <a href="https://leetcode.com/Mrityunjay07">
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
+<a href="https://codeforces.com/profile/MrityunjayD">
+  <img height="50" src="https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=#d16c06"/>
+</a>
+<a href="https://atcoder.jp/users/MrityunjayD">
+  <img height="50" src="https://img.shields.io/badge/atcoder-000000?style=for-the-badge&logo=atcoder&logoColor=#d16c06"/>
+</a>
 <a href="https://www.codechef.com/users/adarshdwivedi9">
   <img height="50" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
 </a>
