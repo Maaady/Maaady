@@ -12,29 +12,10 @@
 <a href="https://leetcode.com/Mrityunjay07">
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
-<a href="https://codeforces.com/profile/MrityunjayD">
-  <img height="50" src="https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=#d16c06"/>
-</a>
-<a href="https://atcoder.jp/users/MrityunjayD">
-  <img height="50" src="https://img.shields.io/badge/atcoder-000000?style=for-the-badge&logo=atcoder&logoColor=#d16c06"/>
-</a>
-<a href="https://www.codechef.com/users/adarshdwivedi9">
-  <img height="50" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-</a>
+
 <a href="https://www.hackerrank.com/profile/dmrityunjay32">
   <img height="50" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
-<a href="https://www.hackerearth.com/@Maddy09">
-  <img height="50" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
-</a>
-      <a>
-    <a href ="https://twitter.com/mrityunjay2135">
-       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/> 
-  </a>
-       <a>
-    <a href ="https://medium.com/@mrityunjay.22scse2030758">
-       <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/> 
-  </a>
 </p>
 
 ---
