@@ -93,8 +93,9 @@ hobbies: ["Gaming", "Cinema", "Guitar", "Sing", "Social"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg" alt="C#" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-<img src="https://www.google.com/imgres?q=c%23&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd2%2FC_Sharp_Logo_2023.svg%2F1200px-C_Sharp_Logo_2023.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC_Sharp_(programming_language)&docid=OaOuj6ETfoZJuM&tbnid=QHyQdl-kyG9GwM&vet=12ahUKEwjOntWj0fiLAxXWR2wGHYGOGWAQM3oECBQQAA..i&w=1200&h=1200&hcb=2&itg=1&ved=2ahUKEwjOntWj0fiLAxXWR2wGHYGOGWAQM3oECBQQAA"/>
+
 
 </p>
 <p align="center">
