@@ -93,7 +93,7 @@ hobbies: ["Gaming", "movie", "Guitar", "Sing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbeecrowd.com%2Fblog-posts%2Fc-5%2F&psig=AOvVaw1_wvOC5hva6tL4sdOkSHK7&ust=1741459760684000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj4tfHT-IsDFQAAAAAdAAAAABAE"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjimster397%2Fwhat-is-c-4kgf&psig=AOvVaw1_wvOC5hva6tL4sdOkSHK7&ust=1741459760684000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj4tfHT-IsDFQAAAAAdAAAAABAJ" width="45" height="45"/>
 
 </p>
 <p align="center">
