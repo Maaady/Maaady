@@ -25,34 +25,35 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Mrityunjay Kumar Dwivedi
-located_in: India
+Name: Mrityunjay Kumar Dwivedi
+Located_In: India
 
-experince:
+Experinces:
    [
-      position: Software Developement Engineer
-      company : Laland Marketing Pvt ltd,
+      Position: Software Dev Engineer ( Dec'24 - Present)
+      Company : Laland Marketing Pvt ltd,
 
-      position: Ex-Sde
-      company : Aho Security Labs,
+      Position: Ex-Software Developer (May'24 - Oct'24)
+      Company : Aho Security Labs,
 
-      position: Ex-Ai-ml Intern
-      company : Aicte NEAT,
+      Position: Ex-Ai-ml Intern (Jan'24 -Mar'24)
+      Company : Aicte NEAT,
 
-      position: Ex-sde Intern
-      company : Goldmaan Sachs,
-
-      position: Ex-sde Intern
-      company : Codeclause.
+      Position: Ex-sde Intern (Aug'23 - Sep'23)
+      Company : Goldmaan Sachs
 
    ]
 
 Education:
   [
-    University: Galgotias University
-    "Master's in Computer Engineering (MCA)",
-    University: Delhi University
-     "Bachelor's in  Computer Science (BSc)" .
+    University: Galgotias University (2022 - 2024)
+    Degree: MCA (CSE)
+    Cgpa : 8.04 ,
+
+    University: Delhi University (2018 - 2021)
+    Degree: BSc (CSE)
+    Cgpa: 8
+     
   ]
 
 Fields_Of_Interests:
@@ -67,10 +68,10 @@ Fields_Of_Interests:
 
   
 Currently_Learning:
-["Problem Solving, DSA, and Ai "]
+["Problem Solving, DSA, and Ai"]
 
 2025 Goals:
- [" I try to Devlop 10+ Projects and learn new Technologies
+ [" I try to Devlop 10+ Projects and learn new Technologies"]
  
 Hobbies:
 ["Gaming", "Movie", "Guitar", "Sing"]
