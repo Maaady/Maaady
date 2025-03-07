@@ -47,7 +47,7 @@ experince:
 
    ]
 
-education:
+Education:
   [
     University: Galgotias University
     "Master's in Computer Engineering (MCA)",
@@ -55,7 +55,7 @@ education:
      "Bachelor's in  Computer Science (BSc)" .
   ]
 
-fields_of_interests:
+Fields_Of_Interests:
   [
     "Software Dev Engineer",
     "Data Engineer",
@@ -66,9 +66,14 @@ fields_of_interests:
   ]
 
   
-currently_learning: ["Problem Solving, DSA, and Ai "]
-2025 Goals: [" I try to Devlop 10+ Projects and learn new Technologies."]
-hobbies: ["Gaming", "Movie", "Guitar", "Sing"]
+Currently_Learning:
+["Problem Solving, DSA, and Ai "]
+
+2025 Goals:
+ [" I try to Devlop 10+ Projects and learn new Technologies
+ 
+Hobbies:
+["Gaming", "Movie", "Guitar", "Sing"]
 ```
   
 ---  
@@ -93,13 +98,7 @@ hobbies: ["Gaming", "Movie", "Guitar", "Sing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemdesign/systemdesign-original.svg" alt="systemdesign" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ops/ops-original.svg" alt="ops" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbms/dbms-original.svg" alt="dbms" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cn/cn-original.svg" alt="cn" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-
-
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
