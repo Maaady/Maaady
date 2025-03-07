@@ -68,12 +68,12 @@ fields_of_interests:
   
 currently_learning: ["Problem Solving, DSA, and Ai "]
 2025 Goals: [" I try to Devlop 10+ Projects and learn new Technologies."]
-hobbies: ["Gaming", "movie", "Guitar", "Sing"]
+hobbies: ["Gaming", "Movie", "Guitar", "Sing"]
 ```
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tech Stack Skills</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -92,8 +92,8 @@ hobbies: ["Gaming", "movie", "Guitar", "Sing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjimster397%2Fwhat-is-c-4kgf&psig=AOvVaw1_wvOC5hva6tL4sdOkSHK7&ust=1741459760684000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj4tfHT-IsDFQAAAAAdAAAAABAJ" width="45" height="45"/>
 
 </p>
 <p align="center">
