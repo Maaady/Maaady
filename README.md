@@ -31,7 +31,7 @@ Located_In: India
 Experinces:
    [
       Position: Software Dev Engineer ( Dec'24 - Present)
-      Company : Laland Marketing Pvt ltd,
+      Company : Laland Marketing & Communication Ltd,
 
       Position: Ex-Software Developer (May'24 - Oct'24)
       Company : Aho Security Labs,
