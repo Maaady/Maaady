@@ -44,6 +44,16 @@ Experinces:
 
    ]
 
+Fields_Of_Interests:
+  [
+    "Software Dev Engineer",
+    "Data Engineer",
+    "Full Stack Engineer",
+    "Frontend Devloper",
+    "Backend Devloper",
+    "Software Dev Engineer Test".
+  ]
+
 Education:
   [
     University: Galgotias University (2022 - 2024)
@@ -55,17 +65,6 @@ Education:
     Cgpa: 8
      
   ]
-
-Fields_Of_Interests:
-  [
-    "Software Dev Engineer",
-    "Data Engineer",
-    "Full Stack Engineer",
-    "Frontend Devloper",
-    "Backend Devloper",
-    "Software Dev Engineer Test".
-  ]
-
   
 Currently_Learning:
 ["Problem Solving, DSA, and Ai"]
