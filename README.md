@@ -52,6 +52,7 @@ Fields_Of_Interests:
     "Frontend Devloper",
     "Backend Devloper",
     "Software Dev Engineer Test".
+
   ]
 
 Education:
@@ -71,7 +72,7 @@ Currently_Learning:
  [" I try to Devlop 10+ Projects and learn new Technologies"]
  
 Hobbies:
-["Gaming", "Movie", "Guitar", "Sing"]
+["Gaming", "Movie", "Traveling", "Sing"]
 ```
   
 ---  
