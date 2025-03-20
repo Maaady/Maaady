@@ -58,11 +58,9 @@ Education:
   [
     University: Galgotias University (2022 - 2024)
     Degree: MCA (CSE)
-    Cgpa : 8.04 ,
 
     University: Delhi University (2018 - 2021)
     Degree: BSc (CSE)
-    Cgpa: 8
      
   ]
   
