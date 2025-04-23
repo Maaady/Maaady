@@ -30,7 +30,7 @@ Located_In: India
 
 Experinces:
    [
-      Position: Software Dev Engineer ( Dec'24 - Present)
+      Position: Software Dev Engineer ( Dec'24 - Mar'25)
       Company : Laland Marketing & Communication Ltd,
 
       Position: Ex-Software Developer (May'24 - Oct'24)
