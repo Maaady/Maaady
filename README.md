@@ -68,7 +68,7 @@ Currently_Learning:
 ["Problem Solving, DSA, and Ai"]
 
 2025 Goals:
- [" I try to Devlop and follow-up my technical skills blend to learn new technologies &  create multiple Projects"]
+ [" I try to Devlop and follow-up my technical skills blend to learn new technologies & create multiple Projects"]
  
 Hobbies:
 ["Gaming", "Movie", "Traveling", "Sing"]
