@@ -50,8 +50,7 @@ Fields_Of_Interests:
     "Data Engineer",
     "Full Stack Engineer",
     "Frontend Devloper",
-    "Backend Devloper",
-    "Software Dev Engineer Test".
+    "Backend Devloper".
 
   ]
 
@@ -69,7 +68,7 @@ Currently_Learning:
 ["Problem Solving, DSA, and Ai"]
 
 2025 Goals:
- [" I try to Devlop 10+ Projects and learn new Technologies"]
+ [" I try to Devlop and follow-up my technical skills blend to learn new technologies &  create multiple Projects"]
  
 Hobbies:
 ["Gaming", "Movie", "Traveling", "Sing"]
