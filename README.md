@@ -71,7 +71,7 @@ Currently_Learning:
  [" I try to Devlop and follow-up my technical skills blend to learn new technologies & create multiple Projects"]
  
 Hobbies:
-["Gaming", "Movie", "Traveling", "Sing"]
+["Gaming", "Movie", "Traveling", "Singing" & "Race".]
 ```
   
 ---  
