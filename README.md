@@ -11,7 +11,7 @@
 </a>
   
 <a href="https://codeforces.com/profile/MrityunjayD">
-  <img height="50" src="https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  <img height="50" src="https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces&logoColor=#d16c06"/>
 </a>
   
 <a href="https://leetcode.com/Mrityunjay01">
