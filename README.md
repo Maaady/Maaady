@@ -10,10 +10,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
   
-<a href="https://codeforces.com/profile/MrityunjayD">
-  <img height="50" src="https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces&logoColor=#d16c06"/>
-</a>
-  
 <a href="https://leetcode.com/Mrityunjay07">
   <img height="50" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </a>
