@@ -67,7 +67,7 @@ Education:
 Currently_Learning:
 ["Problem Solving, DSA, and Ai"]
 
-2025 Goals:
+2025-26 Goals:
  [" I try to Devlop and follow-up my technical skills blend to learn new technologies & create multiple Projects"]
  
 Hobbies:
