@@ -50,7 +50,8 @@ Fields_Of_Interests:
     "Data Engineer",
     "Full Stack Engineer",
     "Frontend Devloper",
-    "Forward Deployment Engineer",  
+    "Forward Deployment Engineer",
+    "Platform Engineer", 
     "Backend Devloper".
   ]
 
