@@ -144,7 +144,6 @@ Hobbies:
 <!-- OpenAI -->
 <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="45" height="45"/>
 
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
