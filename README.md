@@ -78,9 +78,6 @@ Hobbies:
   
 <h2> 🚀 &nbsp;Tech Stack Skills</h2>
 <p align="left">
-<h2>🚀 &nbsp;Tech Stack Skills</h2>
-
-<p align="left">
 
 <!-- IDE -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
