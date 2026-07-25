@@ -50,16 +50,16 @@ Fields_Of_Interests:
     "Data Engineer",
     "Full Stack Engineer",
     "Frontend Devloper",
+    "Forward Deployment Engineer",  
     "Backend Devloper".
-
   ]
 
 Education:
   [
-    University: Galgotias University (2022 - 2024)
+    University: Galgotias University 
     Degree: MCA (CSE)
 
-    University: Delhi University (2018 - 2021)
+    University: Delhi University
     Degree: BSc (CSE)
      
   ]
@@ -67,7 +67,7 @@ Education:
 Currently_Learning:
 ["Problem Solving, DSA, and Ai"]
 
-2025-26 Goals:
+2026-27 Goals:
  [" I try to Devlop and follow-up my technical skills blend to learn new technologies & create multiple Projects"]
  
 Hobbies:
