@@ -30,27 +30,29 @@ Located_In: India
 
 Experinces:
    [
-     Position: Founder , Software Engineer (Fab'26 - Present)
+     Position: Founder, Software Engineer (Fab'26 - Present)
       Company : Mrsh,
 
       Position: Software Dev Engineer (Dec'24 - Jan'26)
       Company : Laland Marketing & Communication Ltd,
 
-      Position: Ex-Software Developer (May'24 - July'24)
+      Position: Associate Software Engineer (May'24 - Oct'24)
       Company : Aho Security Labs,
 
-      Position: Ex-Ai-ml Intern (Jan'24 -Mar'24)
+      Position: Ai-ml Intern (Jan'24 -Mar'24)
       Company : Aicte NEAT,
 
-      Position: Ex-sde Intern (Aug'23 - Sep'23)
-      Company : Goldmaan Sachs
+      Position: Sde Intern (Aug'23 - Sep'23)
+      Company : Goldmaan Sachs.
 
    ]
 
 Fields_Of_Interests:
   [
     "Software Dev Engineer",
-    "Data Engineer",
+    "MTS",
+    "Platform Engineer",
+    "AI Engineer",
     "Full Stack Engineer",
     "Frontend Devloper",
     "Forward Deployment Engineer",
