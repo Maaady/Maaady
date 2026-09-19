@@ -30,6 +30,9 @@ Located_In: India
 
 Experinces:
    [
+     Position: Founder , Software Engineer (Fab'26 - Present)
+      Company : Mrsh,
+
       Position: Software Dev Engineer (Dec'24 - Jan'26)
       Company : Laland Marketing & Communication Ltd,
 
